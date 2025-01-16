@@ -208,6 +208,30 @@ The platform will be a web and mobile application with intuitive UI/UX design. I
 
 ---
 
+ **Traceability Matrix** for the **Affordable Housing and Tenant Finder** 
+
+---
+
+| **System Feature**         | **Security**                 | **Performance**             | **Usability**                        |
+|----------------------------|-----------------------------|-----------------------------|--------------------------------------|
+| **User Registration**       | ↑ Secure User Authentication <br> ↓ Verified Document Storage | ↓ Fast Login Processing             | ↑ Simple and Intuitive Registration Process |
+| **Property Listing**        | ↑ Secure Data Upload         | ↓ Quick Image Loading       | ↑ Easy-to-Fill Property Form         |
+| **Search Functionality**    | ↑ Filter Privacy (no sensitive data exposed) | ↓ Results Under 2 Seconds            | ↑ User-Friendly Search Filters       |
+| **Roommate Matching**       | ↑ Secure Matching Algorithm  | ↓ Matches in Under 30 Seconds | ↑ Intuitive Roommate Suggestions     |
+| **Rent Payments**           | ↑ Encrypted Transactions     | ↓ Payment Processing in Real-Time | ↑ Seamless and Clear Payment Flow    |
+| **Real-Time Notifications** | ↑ Secure Notification Handling | ↓ Instant Delivery of Notifications | ↑ Easily Accessible Alerts          |
+| **Map Integration**         | ↑ Encrypted Location Data    | ↓ Accurate Updates < 5 Seconds | ↑ Easy-to-Use Map with Filters       |
+| **Digital Rental Agreement**| ↑ Secure Document Encryption | ↓ Fast Agreement Generation | ↑ Simplified Agreement Forms         |
+| **Multilingual Support**    | ↑ Secure Language Switching  | ↓ Fast Language Translations | ↑ Consistent Interface in Multiple Languages |
+
+---
+
+### **Key**:
+- **↑**: Emphasizes the **focus on improvement** for the respective non-functional requirement.  
+- **↓**: Highlights the **expected performance metric** or timeline for achieving the goal.  
+
+This format combines functional and non-functional requirements into a concise, easy-to-read table, ensuring alignment with the system goals. Let me know if you'd like further clarification!
+
 
 ### **Result:**  
 - **Objective Achieved:** The system streamlines the housing process, enhances trust through verification, and reduces the time spent searching for affordable housing.  
